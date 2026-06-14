@@ -11,8 +11,8 @@ from config.model_params import *
 from utils.common_functions import read_yaml,load_data
 from scipy.stats import randint
 
-import mlflow
-import mlflow.sklearn
+#import mlflow
+#import mlflow.sklearn
 
 logger = get_logger(__name__)
 
